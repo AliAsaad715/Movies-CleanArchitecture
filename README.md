@@ -28,6 +28,7 @@ This project follows **Clean Architecture** principles with a clear separation o
 │ INFRASTRUCTURE │
 
 │ (Persistence, External Services) │
+
 └─────────────────────────────────────────────┘
 
 
