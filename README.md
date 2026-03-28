@@ -6,18 +6,31 @@ A modern, scalable movie management system built with **.NET** implementing **Cl
 
 This project follows **Clean Architecture** principles with a clear separation of concerns:
 ┌─────────────────────────────────────────────┐
-│ Presentation │
+
+│ PRESENTATION │
+
 │ (API Controllers) │
+
 ├─────────────────────────────────────────────┤
-│ Application │
+
+│ APPLICATION │
+
 │ (Commands, Queries, Handlers) │
+
 ├─────────────────────────────────────────────┤
+
 │ Core │
+
 │ (Entities, Value Objects) │
+
 ├─────────────────────────────────────────────┤
-│ Infrastructure │
+
+│ INFRASTRUCTURE │
+
 │ (Persistence, External Services) │
 └─────────────────────────────────────────────┘
+
+
 ## 🚀 Technologies & Patterns
 
 - **.NET 9.0** - Latest LTS version
