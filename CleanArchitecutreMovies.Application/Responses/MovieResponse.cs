@@ -1,0 +1,9 @@
+﻿namespace CleanArchitecutreMovies.Application.Responses
+{
+    public class MovieResponse
+    {
+        public string MovieName { get; set; }
+        public string DirectorName { get; set; }
+        public string ReleaseYear { get; set; }
+    }
+}

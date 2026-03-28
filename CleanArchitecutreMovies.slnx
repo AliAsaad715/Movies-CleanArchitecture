@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CleanArchitecutreMovies.API/CleanArchitecutreMovies.API.csproj" />
+  <Project Path="CleanArchitecutreMovies.Application/CleanArchitecutreMovies.Application.csproj" />
+  <Project Path="CleanArchitecutreMovies.Core/CleanArchitecutreMovies.Core.csproj" />
+  <Project Path="CleanArchitecutreMovies.Infrastructure/CleanArchitecutreMovies.Infrastructure.csproj" />
+</Solution>
